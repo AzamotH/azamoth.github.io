@@ -55,7 +55,6 @@ h1 {
   font-size: 2em;
   position: relative;
   min-height: 40px;
-  line-height: 40px;
   margin: 0;
 }
 
@@ -67,7 +66,7 @@ h1:before {
   height: 4px;
   bottom: -4px;
   left: 0;
-  background: #750000;
+  background: #00fffa;
 }
 
 .player {
@@ -161,7 +160,7 @@ h1:before {
 }
 
 .main-nav--navigation ul li.active a {
-  background-color: #750000;
+  background-color: #00fffa;
   color: #ffffff;
 }
 
@@ -181,7 +180,7 @@ h1:before {
 .main-nav--navigation ul li a:hover {
   display: block;
   color: #ffffff;
-  background-color: #a70000;
+  background-color: #00befa;
   text-decoration: none;
   font-weight: 400;
   font-size: 18px;
