@@ -35,6 +35,10 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   padding-right: 185px;
 }
 
+.container {
+  padding-top: 85px;
+}
+
 .scene--iframes--player {
   width: calc(100% - 300px);
   float: left;
@@ -46,7 +50,6 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
 }
 
 .page--header {
-  margin-top: 85px;
   text-align: left;
 }
 
